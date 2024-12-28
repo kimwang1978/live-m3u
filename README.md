@@ -89,3 +89,4 @@ TV88,InquizeX
 TV89,8world  
 TV90,倪珍24小時播新聞  
 TV91,TV5 News  
+TV92,公視新聞網  
